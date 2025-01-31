@@ -1,0 +1,40 @@
+EMPLOYEE ID NO:
+697927
+
+PERSON ID NO:
+50662828
+
+COST CENTER NO:
+59689
+
+COMPANY CODE:
+1102
+
+Alignment - Advisory & Consulting
+Entity	  - Deloitte Consulting India Private Limited
+Offering Portfolio - AI & Engineering - Minal Deshpande
+Offering - Hybrid Cloud Infrastructure - Reena Kumar
+
+AADHAR NO:
+2742 4061 4811
+
+PAN NO:
+EVHPP4636M
+
+ADDRESS:
+NO. 22, BAIRAVESHWARA NILAYA, MATHRUSHREE MEDICALS & GANESH CLINIC BUILDING,
+GADI MUDANNA ROAD, KAMAKSHIPALYA, BANGALORE - 560 079
+
+PHONE:
+6362881710
+8197827973
+9611252969
+
+BIAS ID NO:
+BC372
+
+
+
+
+
+
